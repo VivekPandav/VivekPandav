@@ -4,4 +4,4 @@ Hi there 👋
 
 💻 Currently starting to learn code to bring my ideas to life!
 
-📫 Reach out on [Twitter/X @Vix_uxi]((https://x.com/Vix_uxi))
+📫 Reach out on Twitter/X[@Vix_uxi](https://x.com/Vix_uxi)
